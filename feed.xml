@@ -3,7 +3,7 @@
     <title>BepBlog</title>
     <link href="https://bepstein111.github.io/publii-blog/feed.xml" rel="self" />
     <link href="https://bepstein111.github.io/publii-blog" />
-    <updated>2026-04-05T14:14:22-04:00</updated>
+    <updated>2026-04-08T14:30:52-04:00</updated>
     <author>
         <name>bep</name>
     </author>
@@ -21,7 +21,7 @@
             <summary></summary>
         <content type="html">
             <![CDATA[
-                <figure class="post__image post__image--center"><a href="https://up.bepste.in/uploads/schematic.png"  target="_blank" rel="noopener noreferrer"><img decoding="auto" class="post__image post__image--center" src="https://up.bepste.in/uploads/schematic.png" alt="Layout Diagram" width="1200" height="668" data-is-external-image="true"></figure></a><a href="https://up.bepste.in/uploads/homelable-canvas%20(1).png" class="post__image post__image--center" target="_blank" rel="noopener noreferrer"></a><a href="https://up.bepste.in/uploads/homelable-canvas.png" class="post__image post__image--center" target="_blank" rel="noopener noreferrer"><figure class="post__image post__image--center"><img decoding="auto" loading="lazy"  src="https://up.bepste.in/uploads/homelable-canvas.png" alt="Network Diagram" width="2340" height="1168" data-is-external-image="true"></figure></a></p>
+                <figure class="post__image post__image--center"><a href="https://up.bepste.in/uploads/schematic.png"  target="_blank" rel="noopener noreferrer"><img decoding="auto" class="post__image post__image--center" src="https://up.bepste.in/uploads/schematic.png" alt="Layout Diagram" width="1200" height="668" data-is-external-image="true"></figure></a><a href="https://up.bepste.in/uploads/homelable-canvas.png" class="post__image post__image--center" target="_blank" rel="noopener noreferrer"><figure class="post__image post__image--center"><img decoding="auto" loading="lazy"  src="https://up.bepste.in/uploads/homelable-canvas.png" alt="Network Diagram" width="2340" height="1168" data-is-external-image="true"></figure></a></p>
             ]]>
         </content>
     </entry>
